@@ -25,4 +25,4 @@ jobs:
       uses: wzieba/Firebase-Action@v2
       with:
         firebase_credentials: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
-        firebase_project_id: your-firebase-project-id
+        firebase_project_id: qwer-hacks-1f3b3
